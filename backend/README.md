@@ -6,7 +6,7 @@ A robust backend service built with Node.js and Express.js for the Enterprise Re
 
 - **Node.js** - JavaScript runtime
 - **Express.js** - Web application framework
-- **MySQL/PostgreSQL** - Database (specify which one you're using)
+- **MySQL** - Database 
 - **JWT** - Authentication
 - **Cors** - Cross-Origin Resource Sharing
 - **Dotenv** - Environment variables management
