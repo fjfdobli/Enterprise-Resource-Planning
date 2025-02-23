@@ -1,6 +1,12 @@
 # 🚀 Enterprise Resource Planning System
 
 <div align="center">
+
+[![GitHub license](https://img.shields.io/github/license/fjfdobli/Enterprise-Resource-Planning)](https://github.com/fjfdobli/Enterprise-Resource-Planning/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/fjfdobli/Enterprise-Resource-Planning)](https://github.com/fjfdobli/Enterprise-Resource-Planning/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/fjfdobli/Enterprise-Resource-Planning)](https://github.com/fjfdobli/Enterprise-Resource-Planning/issues)
+[![GitHub forks](https://img.shields.io/github/forks/fjfdobli/Enterprise-Resource-Planning)](https://github.com/fjfdobli/Enterprise-Resource-Planning/network)
+
 A modern, scalable Enterprise Resource Planning system built for System Integration & Architecture 2 subject using React + Vite + TypeScript and Node.js + Express.js.
 
 [Report Bug](https://github.com/fjfdobli/Enterprise-Resource-Planning/issues) · [Request Feature](https://github.com/fjfdobli/Enterprise-Resource-Planning/issues)
@@ -108,29 +114,57 @@ Visit our [Wiki](https://github.com/fjfdobli/Enterprise-Resource-Planning/wiki) 
 
 ## 🌟 Core Modules
 
+### 👥 Client Management
+- Customer profile management
+- Contact information tracking
+- Order history
+- Client relationship management
+
+### 🛍️ Order Management
+- Order processing
+- Order tracking
+- Order status updates
+- Invoicing and billing
+
 ### 📦 Inventory Management
-- Real-time stock tracking
-- Automated reordering
-- Barcode/QR code integration
-- Warehouse management
+- Stock level tracking
+- Product categorization
+- Inventory alerts
+- Stock movement history
 
-### 💰 Financial Management
-- General ledger
-- Accounts payable/receivable
-- Financial reporting
-- Budget management
+### 🤝 Supplier Management
+- Supplier directory
+- Purchase orders
+- Supplier performance tracking
+- Supply chain management
 
-### 👥 Human Resources
-- Employee management
+### 👨‍💼 Employees/Attendance
+- Employee information
 - Attendance tracking
-- Payroll processing
-- Performance evaluation
+- Leave management
+- Work schedules
 
-### 📊 Analytics & Reporting
-- Customizable dashboards
-- Export capabilities
-- Scheduled reports
-- Data visualization
+### 💰 Payroll
+- Salary processing
+- Deduction management
+- Tax calculations
+- Payslip generation
+- Benefits management
+
+### ⚙️ Machine Management
+- Machine inventory
+- Maintenance scheduling
+- Performance monitoring
+- Equipment status tracking
+- Machine Request
+
+### 📊 Reports
+- Sales analytics
+- Inventory reports
+- Employee performance
+- Machine efficiency reports
+- Custom report generation
+- Generate overall reports from all modules
 
 ## 🤝 Contributing
 
@@ -148,7 +182,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Proponents Name: Ferdinand John Dobli - fjfdobli@addu.edu.ph
+                 Eriel John Espinosa - ejqespinosa@addu.edu.ph
+                 Raphael Miguel Operario - rmdoperario@addu.edu.ph
 
 Project Link: [https://github.com/fjfdobli/Enterprise-Resource-Planning](https://github.com/fjfdobli/Enterprise-Resource-Planning)
 
